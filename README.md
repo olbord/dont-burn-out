@@ -1,0 +1,2 @@
+- run installer.exe to install the game on Windows
+- open this project folder in GameMaker Studio to build the game for any other platform
